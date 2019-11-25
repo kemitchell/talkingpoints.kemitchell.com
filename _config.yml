@@ -1,0 +1,9 @@
+name: Talking Points
+url: https://talkingpoints.kemitchell.com
+author: Kyle E. Mitchell
+homepage: https://kemitchell.com
+repository: kemitchell/talkingpoints.kemitchell.com
+repository_url: https://github.com/kemitchell/talkingpoints.kemitchell.com
+exclude:
+- Gemfile
+- Gemfile.lock
