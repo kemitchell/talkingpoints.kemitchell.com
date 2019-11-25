@@ -1,0 +1,6 @@
+set -e
+rm -rf _site
+bundle install --quiet
+bundle exec jekyll build --quiet
+SITE=talkingpoints.kemitchell.com
+rsync -4 -a --delete _site/ $SITE:/var/www/$SITE/
