@@ -64,7 +64,7 @@ You may not like Creative Commons' NonCommercial licenses.  But it's a functiona
 
 <h2 id="organizations">Uncertainty about the terms will harm adoption by big organizations whether they'd use unethically or not.</h2>
 
-Yes, but as much because of those companies inbound licensing policies and developers' outbound license terms.
+Yes, but as much because of those companies' inbound licensing policies as because of developers' choice of outbound terms.
 
 Some organizations choose to approve licenses only by company-wide policy, for any and all use cases, without supervision.  Some of those can't reliably tell what they're using software to do.  Many of those organizations ban copyleft, rather than worry about when it will or won't require sharing.  And many of those same organizations also impose ethically informed corporate social responsibility codes of conduct on all their vendors and subvendors.
 
