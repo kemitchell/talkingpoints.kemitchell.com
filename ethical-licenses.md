@@ -74,7 +74,7 @@ PolyForm's Noncommercial license improves on Creative Commons' approach by inclu
 
 <h2 id="definitions">This violates "for any purpose" and "field of use".</h2>
 
-Many activists have long applied those vague terms to prohibit noncommercial, no-military-use, and other rules.  But they've also bent over backward to avoid reading them to prohibit an ethical rule---copyleft---despite a constant stream of confused hackers dating back to the announcement of the Open Source Initiative and the Open Source Definition.
+Many activists have long applied those vague terms to prohibit noncommercial, no-military-use, and other rules.  But they've also bent over backward to avoid reading them to prohibit an ethically motivated rule---copyleft---despite a constant stream of confused hackers dating back to the announcement of the Open Source Initiative and the Open Source Definition.
 
 Arguments from authority, or arguments treating vague, post hoc rationalizations of decades-old projects as holy text, aren't compelling.
 
