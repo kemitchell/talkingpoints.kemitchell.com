@@ -40,7 +40,7 @@ It may actually improve it.
 
 Developers with serious reservations about working in the open under traditional free-or-open terms aren't willing to check their consciences at the door to check their code into the repo.  Many projects simply aren't happening in the open, or happening at all, without a license choice that unlocks their collaborative potential.  Many projects working out in the open without a license, or with a hastily cobbled-together one, aren't seeing collaboration they would if their ground rules were laid out officially.
 
-On the other hand, encouraging contribution form those who disagree, or taking their code on the sly, without saying anything about the disagreement, is one of the key problems ethical licenses aim to solve.  Developers shouldn't have to subsidize behavior they find abhorrent with free code, and they shouldn't be kept in the dark, wondering whether what they're doing is contributing to wrong.  Many developers looking for ethical licenses today took that risk in the past, and took a hard lesson later, when uses of their work came to light.
+On the other hand, encouraging contribution from those who disagree, or taking their code on the sly, without saying anything about the disagreement, is one of the key problems ethical licenses aim to solve.  Developers shouldn't have to subsidize behavior they find abhorrent with free code, and they shouldn't be kept in the dark, wondering whether what they're doing is contributing to wrong.  Many developers looking for ethical licenses today took that risk in the past, and took a hard lesson later, when uses of their work came to light.
 
 <h2 id="uncertainty">Uncertainty about the terms will harm adoption by those who can't tell if their use is allowed.</h2>
 
