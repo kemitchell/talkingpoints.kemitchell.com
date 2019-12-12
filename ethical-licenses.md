@@ -89,3 +89,11 @@ The Open Source Definition is not a rigorous technical standard, but a political
 Movements, and words more generally, aren't defined by fiat or technical consensus.  Even lexicographers don't _decide_ what words mean.  They assess and collect usages, distill patterns, and update their dictionaries as usage changes.
 
 The politics of free and open source are hackable.  We're engaging in that process.  We expect others who disagree to, as well.  But the hood is not welded shut.  The phrase "open source" [isn't proprietary to anyone](https://opensource.org/pressreleases/certified-open-source.php).
+
+<h2 id="impose">Who do you think you are to impose your ethical views on others?</h2>
+
+Ethical people.  Moral views held lightly and kept quietly might make one person feel righteous, but they don't do anyone else much of any good.
+
+Some may happen to agree with those best positioned to popularize, commercialize, or implement software.  Some may not care.  But delegating morality to others, by giving them free reign, is no less a moral choice.  When evidence of bad behavior mounts, that moral choice becomes indefensible.  Aiding and abetting is also a crime.  Plausible deniability is not a _moral_ defense.
+
+Moreover, public software licenses impose nothing.  If others like the software, but don't like the rules that come with it, they can choose other software, or write their own.
