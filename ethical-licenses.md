@@ -92,8 +92,8 @@ The politics of free and open source are hackable.  We're engaging in that proce
 
 <h2 id="impose">Who do you think you are to impose your ethical views on others?</h2>
 
-Ethical people.  Moral views held lightly and kept quietly might make one person feel righteous, but they don't do anyone else much of any good.
+Ethical people.  Moral views held lightly and kept quietly might make us feel righteous, but they don't do anyone else any good.
 
-Some may happen to agree with those best positioned to popularize, commercialize, or implement software.  Some may not care.  But delegating morality to others, by giving them free reign, is no less a moral choice.  When evidence of bad behavior mounts, that moral choice becomes indefensible.  Aiding and abetting is also a crime.  Plausible deniability is not a _moral_ defense.
+Some may happen to agree with those best positioned to popularize, commercialize, and implement software.  Some may not care.  But delegating morality to others, by giving them free reign, is no less a moral choice.  When evidence of bad behavior mounts, that moral choice becomes indefensible.  Aiding and abetting is also a crime.  Complacency is complicity.  Plausible deniability is not a _moral_ defense.
 
 Moreover, public software licenses impose nothing.  If others like the software, but don't like the rules that come with it, they can choose other software, or write their own.
