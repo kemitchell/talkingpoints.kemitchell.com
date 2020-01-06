@@ -97,3 +97,13 @@ Ethical people.  Moral views held lightly and kept quietly might make us feel ri
 Some may happen to agree with those best positioned to popularize, commercialize, and implement software.  Some may not care.  But delegating morality to others, by giving them free reign, is no less a moral choice.  When evidence of bad behavior mounts, that moral choice becomes indefensible.  Aiding and abetting is also a crime.  Complacency is complicity.  Plausible deniability is not a _moral_ defense.
 
 Moreover, public software licenses impose nothing.  If others like the software, but don't like the rules that come with it, they can choose other software, or write their own.
+
+<h2 id="infrastructure">You're undermining the neutrality of critical infrastructure.</h2>
+
+Nobody's going to relicense the Internet.
+
+Few doubt that an increasing stock of public domain ideas, standards, and software contribute to good in the world.  But the relevant question is always in the present, at the margin:  Who who benefits from cutting-edge code and the work of developed, professional programmers?
+
+Old free software advocates speak nostalgically of a time when all the cool new software was free software.  Open allies even enjoyed superior tooling in some non-software areas, like word processing.  That can happen again.  But free software orthodoxy no longer provides the fire to keep so many hackers pushing the envelope.
+
+We've seen where generalistic, laissez faire theories of social good led, in software licensing and policy more generally.  Not where the starry-eyed, techno-libertarian optimists hoped.  We're not obligated to maintain the dystopia they got instead, or to subsidize it with our life's work.
