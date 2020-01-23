@@ -76,7 +76,7 @@ PolyForm's Noncommercial license improves on Creative Commons' approach by inclu
 
 Many activists have long applied those vague terms to prohibit noncommercial, no-military-use, and other rules.  But they've also bent over backward to avoid reading them to prohibit an ethically motivated rule---copyleft---despite a constant stream of confused hackers dating back to the announcement of the Open Source Initiative and the Open Source Definition.
 
-Arguments from authority, or arguments treating vague, post hoc rationalizations of decades-old projects as holy text, aren't compelling.
+Arguments from authority, or arguments treating vague, post hoc rationalizations of decades-old projects as holy texts, aren't compelling.
 
 Even permissive free and open source licenses have long got a pass on ethically motivated rules.  Attribution requirements, once used as a form of credit assurance, are a part of nearly every popular license.
 
