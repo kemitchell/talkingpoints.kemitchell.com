@@ -60,7 +60,7 @@ Then a single, specific exception:
 
 That's it.  Not exactly Turing complete, but it works.
 
-You may not like Creative Commons' NonCommercial licenses.  But it's a functional license that many creators have chosen and successfully enforced.
+You may not like Creative Commons' NonCommercial license.  But it's a functional license that many creators have chosen and successfully enforced.
 
 <h2 id="organizations">Uncertainty about the terms will harm adoption by big organizations whether they'd use unethically or not.</h2>
 
