@@ -48,7 +48,7 @@ Possibly.  It depends on the terms.  And not just the "ethical" terms, but the "
 
 Even where terms _do_ prove vague applied to many situations, accepting that dynamic is a valid drafting choice.  Legal drafters regular _choose_ to use imprecise, general language more often than computer programmers often suspect.
 
-Dig up a form contract online---commercial license agreement, software as a service, consulting terms, nondisclosure agreement---and search for terms like "reasonable", "prudent", and "efforts".  Those terms are mainstays of legal drafting, but not because they have any specific technical meaning that easy to apply in every case.
+Dig up a form contract online---commercial license agreement, software as a service, consulting terms, nondisclosure agreement---and search for terms like "reasonable", "prudent", and "efforts".  Those terms are mainstays of legal drafting, but not because they have any specific technical meanings that are easy to apply in every case.
 
 Or look at Creative Commons' NonCommercial license.  Here's how [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) draws its line:
 
