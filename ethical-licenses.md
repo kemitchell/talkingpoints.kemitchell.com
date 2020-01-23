@@ -102,7 +102,7 @@ Moreover, public software licenses impose nothing.  If others like the software,
 
 Nobody's going to relicense the Internet.
 
-Few doubt that an increasing stock of public domain ideas, standards, and software contribute to good in the world.  But the relevant question is always in the present, at the margin:  Who who benefits from cutting-edge code and the work of developed, professional programmers?
+Few doubt that an increasing stock of public domain ideas, standards, and software contribute to good in the world.  But the relevant question is always in the present, at the margin:  Who benefits from cutting-edge code and the work of developed, professional programmers?
 
 Old free software advocates speak nostalgically of a time when all the cool new software was free software.  Open allies even enjoyed superior tooling in some non-software areas, like word processing.  That can happen again.  But free software orthodoxy no longer provides the fire to keep so many hackers pushing the envelope.
 
