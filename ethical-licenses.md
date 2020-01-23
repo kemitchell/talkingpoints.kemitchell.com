@@ -84,7 +84,7 @@ Even permissive free and open source licenses have long got a pass on ethically 
 
 That's an appeal to authority, not an argument.
 
-The Open Source Definition is not a rigorous technical standard, but a political document, drafted and tweaked for a marketing effort, after the licenses it then described had already been written.  Ditto "What is Free Software?"
+The Open Source Definition is not a rigorous technical standard, but a political document, drafted in private and later adapted for a marketing effort, after the licenses it then described had already been written.  Ditto "What is Free Software?"
 
 Movements, and words more generally, aren't defined by fiat or technical consensus.  Even lexicographers don't _decide_ what words mean.  They assess and collect usages, distill patterns, and update their dictionaries as usage changes.
 
